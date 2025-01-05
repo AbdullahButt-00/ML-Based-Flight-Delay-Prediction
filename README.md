@@ -40,8 +40,8 @@ Predict exact delay durations in minutes.
 For all Kaggle competitions, the submission file must be a CSV with the following structure:
 
 ## Columns:
-ID: A unique identifier starting from 1.
-Delay: Predicted delay values:
-Binary: on-time or delayed
-Multi-Class: No Delay, Short Delay, Moderate Delay, Long Delay
-Regression: Numerical delay values in minutes.
+#### ID: A unique identifier starting from 1.
+#### Delay: Predicted delay values:
+#### Binary: on-time or delayed
+#### Multi-Class: No Delay, Short Delay, Moderate Delay, Long Delay
+#### Regression: Numerical delay values in minutes.
