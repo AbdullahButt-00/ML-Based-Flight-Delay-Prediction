@@ -15,11 +15,14 @@ This repository contains the implementation of an advanced machine-learning proj
 ###### Train Data: Includes historical flight and weather data with delay information.
 ###### Test Data: Contains flight and weather data without delay values for prediction.
 ###### Weather Data: Supplemental data for feature extraction.
-###### Features
 
-#  Data Preprocessing: Handling missing values, formatting time fields, and merging datasets.
-#  Feature Engineering: Creating temporal and weather-based features.
-#  Visualization: Insights using histograms, line plots, and bar charts.
+
+#  Data Preprocessing: 
+###### Handling missing values, formatting time fields, and merging datasets.
+#  Feature Engineering: 
+###### Creating temporal and weather-based features.
+#  Visualization: 
+###### Insights using histograms, line plots, and bar charts.
 
 #  Models
 ## Binary Classification:
