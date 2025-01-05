@@ -2,6 +2,18 @@
 This repository contains the implementation of an advanced machine-learning project focused on analyzing and predicting flight departure delays. The project uses regression, binary classification, and multi-class classification models to predict delay durations and categories based on flight and weather data. It includes data preprocessing, feature engineering, model training, evaluation, and submission for Kaggle competitions.
 
 
+# Repository Contents
+###### Data.zip: Contains preprocessed datasets.
+###### Raw-Dataset.zip: Original datasets provided for the project.
+###### ML_PROJECT_FINAL_PHASES.ipynb: Complete Jupyter notebook demonstrating all project phases.
+###### PHASE01.ipynb: Notebook covering data preprocessing and feature engineering (Phase 1).
+###### data_preprocessing.ipynb: Script for preprocessing raw data and feature extraction.
+###### optimized_rf_model.pkl: Pickled optimized Random Forest model.
+###### solution_binary.csv: Submission file for binary classification.
+###### solution_multiclass.csv: Submission file for multi-class classification.
+###### solution_regression.csv: Submission file for regression analysis.
+###### Report.pdf: Detailed report containing insights, analysis, and model evaluation.
+
 # Objectives
 ###### Data Analysis: Understand patterns and factors contributing to flight delays.
 ###### Model Development: Create regression and classification models for predicting delays.
